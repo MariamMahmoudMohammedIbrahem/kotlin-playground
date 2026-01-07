@@ -36,8 +36,8 @@ class CustomAdapter(private val context: Context, private val items:List<String>
                 false
             )
         val item = getItem(position) as String
-        val title = view.findViewById<TextView>(R.id.customTextView)
-        title.text = item
+//        val title = view.findViewById<TextView>(R.id.customTextView)
+//        title.text = item
 
         return view
     }
