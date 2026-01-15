@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Kotlin"
         tools:targetApi="31">
         <activity
+            android:name=".nav_drawer_app.NavDrawerApp"
+            android:exported="false" />
+        <activity
             android:name=".fragment_app.FragmentApp"
             android:exported="false" />
         <activity
