@@ -14,4 +14,7 @@
     <string name="settings_fragment">Settings Fragment</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
+    <string name="view_pager_fragment_1">View Pager Fragment 1</string>
+    <string name="view_pager_fragment_2">View Pager Fragment 2</string>
+    <string name="view_pager_fragment_3">View Pager Fragment 3</string>
 </resources>
